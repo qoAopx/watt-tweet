@@ -1,0 +1,6 @@
+venv
+.DS_Store
+setenv.sh
+setenv_heroku.sh
+__pycache__/
+.vscode/
